@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444832068719",
+    "project_id": "testedigio-52602",
+    "storage_bucket": "testedigio-52602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444832068719:android:7ba2456fe173762bc8c99a",
+        "android_client_info": {
+          "package_name": "br.com.fernandorubini.teste_fernando_rubini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtxhct2_QsX0WOgx7Ax06iCW5BYtoEz3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
